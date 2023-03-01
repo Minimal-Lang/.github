@@ -5,7 +5,7 @@
 
 <br/>
 
-### Characteristics of Minimal:
+### Characteristics of Minimal
 </div>
 
 Constants creation in runtime  
@@ -25,3 +25,23 @@ Strongly typed (to the extreme)
 
 **Safety:**
 - Runtime type checking
+
+<br/>
+<div align='center'>
+
+### Friends
+</div>
+
+Here the patrons will stay if we ever have one **(ㆆ_ㆆ)**
+
+<br/>
+<div align='center'>
+
+### Guys
+</div>
+
+We are looking for guys (girls/boys) to help us in this big stupid project.  
+We are still just starting and need people to help us choose good designs, features, and also to implement it **(✿◠‿◠)**
+
+If nobody sponsors us, there will be no salary, simple as that **（っ＾▿＾）**  
+If you got interested contact us pleeeaaseee **ʕ•́ᴥ•̀ʔっ**
