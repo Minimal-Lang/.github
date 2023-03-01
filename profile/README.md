@@ -1,6 +1,6 @@
 <div align='center'>
 
-# Minimal Language
+# [Minimal](https://github.com/minimal-lang/doc) Language
 𝙰 𝚘𝚕𝚍 𝚗𝚎𝚠 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎 :𝙳
 
 <br/>
