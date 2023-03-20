@@ -4,44 +4,39 @@
 𝙰𝚗 𝚘𝚕𝚍 𝚗𝚎𝚠 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎 :𝙳
 
 <br/>
-
-### Characteristics of Minimal
 </div>
 
-Constants creation in runtime  
-Asynchronous processes safely (e.g.: _goroutines_)  
-Operations clearly explicit, but with the possibility of abstractions  
-Return of more than one value from a function  
-Strongly typed (to the extreme)
+## Features of Minimal
 
-**Compatible paradigms:**
-- Functional
-- **Complete** object orientation
+- Constants creation in runtime;
+- Asynchronous processes safely (e.g.: _goroutines_);
+- Operations clearly explicit, but with the possibility of abstractions;
+- Return of more than one value from a function;
+- Strongly typed (to the extreme).
 
-**Simple, low-typing syntax:**
-- Similar to **C**/**Go** with some traces of **ALGOL 68** and **Assembly**
-- Removing unnecessary characters:
-  - `()` in functions without parameters
+### Paradigms
 
-**Safety:**
-- Runtime type checking
+- Functional;
+- Procedural;
+- **Complete** object orientation.
 
-<br/>
-<div align='center'>
+### Simple, low-typing syntax
 
-### Friends
-</div>
+- Similar to **C**/**Go** with some traces of **ALGOL 68**, **Assembly** and **Rust**.
 
-Here the patrons will stay if we ever have one **(ㆆ_ㆆ)**
+### Safety
 
-<br/>
-<div align='center'>
+- Runtime type checking;
+- `null` does not exist.
 
-### Guys
-</div>
+## Patrons
 
-We are looking for guys (girls/boys) to help us in this big stupid project.  
-We are still just starting and need people to help us choose good designs, features, and also to implement it **(✿◠‿◠)**
+The patrons will stay here if we ever have one **(ㆆ_ㆆ)**
+
+## Join us!
+
+We are looking for developers to help us in this project.  
+We are still just starting and we need people to help us choose good designs, features, and also to implement it **(✿◠‿◠)**
 
 If nobody sponsors us, there will be no salary, simple as that **（っ＾▿＾）**  
 If you got interested contact us pleeeaaseee **ʕ•́ᴥ•̀ʔっ**
