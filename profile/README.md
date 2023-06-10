@@ -12,7 +12,7 @@
 [@YungYall](https://github.com/yungyall)
 
 #### 𝚀𝚞𝚒𝚌𝚔 𝙰𝚍𝚟𝚒𝚌𝚎
-The language is under heavy development, and you can help us develop it!
+The language is under heavy development, and you can help us develop it! <br>
 Join our [Discord server](https://discord.gg/F3Uh9W4g), and apply to be a developer (there is a channel explaining how to do it).
 
 ## 𝙰𝚋𝚘𝚞𝚝
