@@ -15,9 +15,6 @@
 **Creators:** [@pandasoli](https://github.com/pandasoli) and
 [@JuniorBecari10](https://github.com/juniorbecari10)
 
-[@batatinha-espacial](https://github.com/batatinha-espacial) -
-[@YungYall](https://github.com/yungyall)
-
 </div>
 
 <br/>
